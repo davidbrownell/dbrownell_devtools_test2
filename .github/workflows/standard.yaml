@@ -114,7 +114,7 @@ jobs:
     with:
       operating_system: ${{ matrix.os }}
       python_version: ${{ matrix.python_version }}
-      validation_command: python -c "from dbrownell_DevTools import __version__; print(__version__)"
+      validation_command: python -c "from dbrownell_devtools_test2 import __version__; print(__version__)"
 
   # ----------------------------------------------------------------------
   create_binary:

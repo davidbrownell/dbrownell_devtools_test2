@@ -25,6 +25,13 @@ BugBug: Desc
 4) Copy the gist id for `Secret`
 5) Click the `Add secret` button
 
+#### Update GitHub Workflow Permissions
+
+1) Navigate to https://github.com/davidbrownell/dbrownell_devtools_test2/settings/actions
+2) In the section `Workflow permissions`...
+3) Select `Read and write permissions`
+4) Click the `Save` button
+
 #### Update this file with your gist id
 
 1) In this file, replace `__YOUR_GIST_ID_HERE__` with the hex string copied above.
