@@ -25,6 +25,14 @@ keywords = [
 # https://pypi.org/classifiers/
 classifiers = [
     # TODO
+    "License :: OSI Approved :: Common Public License",
+    "Operating System :: MacOS",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
 ]
 
 dependencies = [

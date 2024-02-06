@@ -62,7 +62,7 @@ BugBug: Desc
 ---
 
 [![CI](https://github.com/davidbrownell/dbrownell_devtools_test2/actions/workflows/standard.yaml/badge.svg?event=push)](https://github.com/davidbrownell/dbrownell_devtools_test2/actions/workflows/standard.yaml)
-[![Code Coverage](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/davidbrownell/__YOUR_GIST_ID_HERE__/raw/dbrownell_devtools_test2_coverage.json)](https://github.com/davidbrownell/dbrownell_devtools_test2/actions)
+[![Code Coverage](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/davidbrownell/4065d22fd6323840e81951a3bd271e1c/raw/dbrownell_devtools_test2_coverage.json)](https://github.com/davidbrownell/dbrownell_devtools_test2/actions)
 [![License](https://img.shields.io/github/license/davidbrownell/dbrownell_devtools_test2?color=dark-green)](https://github.com/davidbrownell/dbrownell_devtools_test2/blob/master/LICENSE.txt)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/davidbrownell/dbrownell_devtools_test2?color=dark-green)](https://github.com/davidbrownell/dbrownell_devtools_test2/commits/main/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/dbrownell_devtools_test2?color=dark-green)](https://pypi.org/project/dbrownell-devtools-test2/)
