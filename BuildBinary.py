@@ -21,7 +21,7 @@ _entry_point_script = PathEx.EnsureFile(
     Path(__file__).parent / "src" / "dbrownell_devtools_test2" / "EntryPoint.py",
 )
 _copyright_template = textwrap.dedent(
-"""\
+    """\
 
 Copyright (c) {year}{year_suffix} David Brownell
 
