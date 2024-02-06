@@ -35,7 +35,7 @@ def test_Mult():
 def test_Div():
     result = CliRunner().invoke(app, ["Div", "6", "3"])
     assert result.exit_code == 0
-    assert result.stdout == "2"
+    assert result.stdout == "2.0"
 
 
 # ----------------------------------------------------------------------
